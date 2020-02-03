@@ -1,0 +1,1 @@
+Emacs is my preferred editor as I am slightly more familiar with the commands. While nano has simpler commands that are easier to remember, I feel that emacs may be a more well-rounded editor with more versatility. I prefer it over Vi which, although it feels advanced and professional, is currently above my ability to use in a practical manner.
